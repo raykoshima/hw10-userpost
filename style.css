@@ -9,7 +9,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-   background-color: pink;
+   background-color: rgb(88, 88, 88);
    color: white;
    text-shadow: black 2px 2px 2px;
   }
